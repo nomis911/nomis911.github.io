@@ -2,22 +2,16 @@
 layout: homepage
 ---
 
-## About Me
+## about me
 
-I am a Ph.D. student at ...
+I’m a second-year M.S. student at Sungkyunkwan University, where I am advised by [_Prof. Sungeun Hong_](https://www.csehong.com). I am broadly interested in model efficiency and transfer. My current research focuses on multi-task model merging, test-time adaptation, and efficient machine learning.
 
-## Research Interests
-
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
-
-## News
-
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+{% include_relative _includes/educations.md %}
 
 {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/services.md %}
+{% include_relative _includes/projects.md %}
+
+{% include_relative _includes/honors_awards.md %}
+
+{% include_relative _includes/internships.md %}
