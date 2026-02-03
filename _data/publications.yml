@@ -1,6 +1,12 @@
 
 main:
 
+  - title: "SyMerge: From Non-Interference to Synergistic Merging via Single-Layer Adaptation"
+    authors: Aecheon Jung, <strong>Seunghwan Lee</strong>, Dongyoon Han, Sungeun Hong
+    conference: preprint
+    pdf: https://arxiv.org/pdf/2412.19098
+    image: ./assets/img/symerge.png
+
   - title: Task Vector Quantization for Memory-Efficient Model Merging
     authors: Youngeun Kim*, <strong>Seunghwan Lee*</strong>, Aecheon Jung*, Bogon Ryu, Sungeun Hong
     conference_short: ICCV
@@ -11,12 +17,11 @@ main:
     image: ./assets/img/tvq.png
     # notes: Early Accept
 
-  - title: "Why Train Everything? Tint a Single Layer for Multi-task Model Merging"
-    authors: Aecheon Jung, <strong>Seunghwan Lee</strong>, Dongyoon Han, Sungeun Hong
+  - title: "Instance-Aware Test-Time Segmentation for Continual Domain Shifts"
+    authors: <strong>Seunghwan Lee*</strong>, Inyoung Jung*, Hojoon Lee, Eunil Park, Sungeun Hong
     conference: preprint
-    pdf: https://arxiv.org/pdf/2412.19098
-    code: https://github.com/AIM-SKKU/ModelTinting
-    image: ./assets/img/tint.png
+    pdf: https://arxiv.org/abs/2512.08569
+    image: ./assets/img/cotica.png
 
   - title: "Prototypical class-wise test-time adaptation"
     authors: Hojoon Lee, <strong>Seunghwan Lee*</strong>, Inyoung Jung*, Sungeun Hong
