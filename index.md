@@ -4,7 +4,8 @@ layout: homepage
 
 ## about me
 
-I’m a second-year M.S. student at Sungkyunkwan University, where I am advised by [_Prof. Sungeun Hong_](https://www.csehong.com). I am broadly interested in model efficiency and transfer. My current research focuses on model compression, multi-task model merging, and test-time adaptation.
+I am a machine learning researcher focused on model compression, multi-task model merging, and test-time adaptation. I recently received my M.S. from Sungkyunkwan University (2026), advised by [_Prof. Sungeun Hong_](https://www.csehong.com). I am currently seeking research or engineering positions in machine learning.
+
 
 {% include_relative _includes/educations.md %}
 
