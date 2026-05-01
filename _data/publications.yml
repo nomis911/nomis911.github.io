@@ -4,14 +4,15 @@ main:
   - title: "MultihopSpatial: Multi-hop Compositional Spatial Reasoning Benchmark for Vision-Language Model"
     authors: Youngwan Lee, Soojin Jang, Yoorhim Cho, <strong>Seunghwan Lee</strong>, Yong-Ju Lee, Sung Ju Hwang
     conference: preprint
-    pdf: https://arxiv.org/abs/2603.18892
+    pdf: https://arxiv.org/pdf/2603.18892
     code: https://github.com/youngwanLEE/multihopspatial
     page: https://youngwanlee.github.io/multihopspatial/
     image: ./assets/img/multihopspatial.png
 
   - title: "SyMerge: From Non-Interference to Synergistic Merging via Single-Layer Adaptation"
     authors: Aecheon Jung, <strong>Seunghwan Lee</strong>, Dongyoon Han, Sungeun Hong
-    conference: preprint
+    conference_short: ICML
+    conference: International Conference on Machine Learning (ICML), 2026.
     pdf: https://arxiv.org/pdf/2412.19098
     code: https://github.com/AIM-SKKU/SyMerge
     page: https://aim-skku.github.io/SyMerge/
@@ -30,7 +31,7 @@ main:
   - title: "Instance-Aware Test-Time Segmentation for Continual Domain Shifts"
     authors: <strong>Seunghwan Lee*</strong>, Inyoung Jung*, Hojoon Lee, Eunil Park, Sungeun Hong
     conference: preprint
-    pdf: https://arxiv.org/abs/2512.08569
+    pdf: https://arxiv.org/pdf/2512.08569
     image: ./assets/img/cotica.png
 
   - title: "Prototypical class-wise test-time adaptation"
